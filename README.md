@@ -75,7 +75,7 @@ use an AI API. The vast majority of them aren't free and decent at the same time
 What this bot basically does is surround the player with tnt and fire so the tnt explodes each time the player touches water. That way we can test a new type event and try a new funcionality of the minecraft library: the placement of blocks.
 
 **TESTS**
-This project provides a framework for testing Minecraft bots using Python's unittest module. The bots—InsultBot, OracleBot, and TntBot—are designed to interact with the Minecraft world via chat commands and in-game events.  The tests are divided
+This project provides a framework for testing Minecraft bots using Python's unittest module. The bots InsultBot, OracleBot, and TntBot are designed to interact with the Minecraft world via chat commands and in-game events.  The tests are divided
 into dynamic and static tests. Dynamic tests simulate real interactions in a live Minecraft environment, while static tests check the internal logic and behavior of the bots without requiring Minecraft. The dynamic tests work by connecting to a 
 Minecraft instance and interacting with it in real-time. Commands are sent via the in-game chat, and the test framework monitors the chat and game events to ensure the bots respond correctly. 
 For example, the tests activate and deactivate bots using commands like !insultbot on and !insultbot off, validate the bots' behavior when specific actions occur (e.g., hitting blocks or asking questions), and ensure the bots' states update as 
