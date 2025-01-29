@@ -21,7 +21,7 @@ This framework allows different agents (bots) to interact with players on a Mine
    - Accept the EULA to be able to run the server.
 
 2. **Connecting to the Server**:
-   - Connect to the server using a Minecraft client.
+   - Connect to the server using a Minecraft client 1.12.
    - Enter `localhost` or `127.0.0.1` as the server address.
 
 3. **Framework Execution**:
