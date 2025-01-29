@@ -40,7 +40,7 @@ This framework allows different agents (bots) to interact with players on a Mine
   - You can implement your own bots by following the structure and responsibilities mentioned.
   - Ensure the bot properly handles its interaction with players and the server environment.
 
-__MORE STUFF__
+## MORE STUFF
 
 The goal of this task is to implement a Python framework enabling the development and execution of Python coded agents in a Shared Minecraft server. Now we will proceed to talk about some design decisions that we took, the testing that we made
 and the bots that we implemented in other to see the framework in action.
